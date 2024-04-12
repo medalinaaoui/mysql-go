@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/test/mysql-go/pkg/controllers"
+	"github.com/medali/test/pkg/controllers"
 )
 
 
